@@ -1,0 +1,5 @@
+GET  /api/recipes  — returns all recipes in database
+GET  /api/recipes/:id  — returns the recipe with the provided ID from the database
+POST  /api/recipes  — adds a new recipe to the database
+PUT  /api/recipes/:id  — modifies the recipe with the provided ID
+DELETE  /api/recipes/:id  — deletes the recipe with the provided ID
